@@ -1,9 +1,9 @@
-numbers = []
-strings = []
+numbers = [1, 2, 3, 4, 5]
+strings = ["one", "two", "three"]
 names = ["John", "Eric", "Jessica"]
 
 # write your code here
-second_name = None
+second_name = names[1]
 
 
 # this code should write out the filled arrays and the second name in the names list (Eric).
